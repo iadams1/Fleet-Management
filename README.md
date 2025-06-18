@@ -33,9 +33,10 @@ Fleet and Maintenance Management Database System Project is a comprehensive data
 ---
 
 ## Getting Started
-Within this respiratory includes three files from the project:
+Within this respiratory includes two files from the project:
 - Screenshot of the projects ERD Diagram in 3NF
-- 
+- The projects sql file
+  
 To run this project locally, follow the instructions below. The project is built using MySQL Workbench.
 
 ### Prerequisites
